@@ -6,7 +6,7 @@ A new Flutter project.
 <table>
   <tr>
     <th>Home Screen</th>
-     <th>Output Screen</th>
+     <th>Statistics Screen</th>
   </tr>
   <tr>
     <td><img src="https://github.com/MSahirullah/Flutter-Covid-Dashboard/blob/main/img/Screenshot_1647969814.png" width=300 ></td>
